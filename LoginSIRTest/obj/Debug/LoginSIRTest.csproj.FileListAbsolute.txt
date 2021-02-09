@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\bin\Debug\LoginSIRTest.exe.config
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\bin\Debug\LoginSIRTest.exe
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\bin\Debug\LoginSIRTest.pdb
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\obj\Debug\LoginSIRTest.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\obj\Debug\LoginSIRTest.frmLogin.resources
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\obj\Debug\LoginSIRTest.Properties.Resources.resources
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\obj\Debug\LoginSIRTest.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\obj\Debug\LoginSIRTest.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\obj\Debug\LoginSIRTest.exe
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\obj\Debug\LoginSIRTest.pdb
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\JesusReyes\Proyectos\LoginSIRTest\LoginSIRTest\obj\Debug\LoginSIRTest.csproj.CopyComplete
